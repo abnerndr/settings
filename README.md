@@ -1,4 +1,5 @@
 # vscode-settings
+```json
 {
   "window.zoomLevel": 0.25,
   "workbench.colorTheme": "Min Dark",
@@ -114,3 +115,4 @@
   "explorer.fileNesting.enabled": true,
   "workbench.statusBar.visible": true
 }
+```
