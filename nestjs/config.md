@@ -25,6 +25,9 @@ Navegue até o diretório do projeto recém-criado e instale as seguintes depend
 
 ```bash
 cd nome-do-projeto
+```
+
+```bash
 yarn add @nestjs/config class-validator class-transformer @nestjs/typeorm typeorm pg @nestjs/schedule @nestjs/axios axios
 ```
 
